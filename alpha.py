@@ -3,7 +3,7 @@ import asyncio
 from discord.ext import commands
 import random
 
-TOKEN = (process.env.TOKEN):
+TOKEN = "NzE4MDQyMDU3NTk1Mjg5Njcw.Xt4LQQ.ticMIKohlwc8NAAIISTcO7V9DaY"
 bot = commands.Bot(command_prefix="&")
 
 
